@@ -4,3 +4,9 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
+number = input("Give a Number: ")
+phrase = input("Give a Phrase: ")
+
+result = phrase * number
+
+print(result)
