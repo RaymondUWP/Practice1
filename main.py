@@ -5,6 +5,7 @@
 #
 # Write your code below this comment.
 number = input("Give a Number: ")
+number = int(number)
 phrase = input("Give a Phrase: ")
 
 result = phrase * number
